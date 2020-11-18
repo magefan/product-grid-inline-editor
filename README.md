@@ -14,7 +14,7 @@ For those who are tired of manual product attributes editing [Magento 2 Product 
 ## Features
 ### Faster Product Editing Process
 
-Usually you have to go from one page to another to change the product price,quantity or SKU, spending a lot of time. With Magento 2 Product grid Inline Editor you can do this in a few seconds regardless if it is 10, 100, or 1000 products.
+Usually you have to go from one page to another to change the product price,quantity or SKU, spending a lot of time. With Magento 2 Product Grid Inline Editor you can do this in a few seconds regardless if it is 10, 100, or 1000 products.
 
 <p align="center">
   <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-product-grid_1.webp">
@@ -35,21 +35,21 @@ As said before, product editing process is much easier with the Magento 2 Produc
 </p>
 
 ### Multiple Attribute Editing in Seconds
-Except for editing one product you can edit product attributes massively. That make product updating process even faster. You can then concentrate on some other important Magento 2 store management tasks.
+Except for editing one product you can edit product attributes massively. That makes product updating process even faster. You can then concentrate on some other important Magento 2 store management tasks.
 
 <p align="center">
   <img width="700" height="400" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/magento-2-multiple-product-editing.webp">
 </p>
 
 ### Quick Quantity Update
-Of all other product attributes Quantity is one of the ones that need to be changed regularly since products get out of stock and back very often. Product Grid Inline Editor allows you to edit this attribute from the grid as well. And what about editing the quality of multiple products? No problem, options are not limited.
+Of all other product attributes Quantity is one that needs to be changed regularly since products get out of stock and back very often. Product Grid Inline Editor allows you to edit this attribute from the grid as well. And what about editing the quantity of multiple products? No problem, options are not limited.
 
 <p align="center">
   <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-product-grid-quantity-editing.webp">
 </p>
 
 ### Product Grid Filters
-You can easily edit product attributes wit the Magento 2 Product Grid Inline Editor. That is what you already know. BBut it is now the only feature. This module also allows you to filter product grids, meaning add and remove product attributes for better product management.
+You can easily edit product attributes with the Magento 2 Product Grid Inline Editor. That is what you already know. But it is now the only feature. This module also allows you to filter product grids, meaning add and remove product attributes for better product management.
 
 <p align="center">
   <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-attribute-filter.webp">
