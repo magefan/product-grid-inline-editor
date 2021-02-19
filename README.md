@@ -3,6 +3,9 @@
 
 For those who are tired of manual product attributes editing [Magento 2 Product Grid Inline Editor](https://magefan.com/magento-2-product-grid-inline-editor) is the perfect solution. It allows you to edit products directly from the product grid and do this either on individual products or massively. These and many other options will help you reduce time spent on product editing to seconds. Literally.
 
+
+<a href="https://magefan.com/magento-2-product-grid-inline-editor"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+
 ## Benefits
 
 * Better Product Management
