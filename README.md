@@ -88,7 +88,7 @@ Once you rearrange product attributes in the grid and select the product attribu
 * [How to uninstall Magento 2 Product Grid Inline Editor Extension](https://magefan.com/magento-2-product-grid-inline-editor/uninstalling)
 
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
