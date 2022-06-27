@@ -134,6 +134,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 ### [Magento 2 Admin Panel Extensions](https://magefan.com/magento-2-extensions/admin-extensions)
   * [Magento 2 Automatic Related Products](https://magefan.com/magento-2-automatic-related-products)
   * [Magento 2 Automatic Related Products Plus](https://magefan.com/magento-2-automatic-related-products/pricing)
+  * [Magento 2 Edit Order Extension](https://magefan.com/magento-2-edit-order-extension)
   * [Magento 2 Better Order Grid Extension](https://magefan.com/magento-2-better-order-grid-extension)
   * [Magento 2 Admin View Extension](https://magefan.com/magento-2-admin-view-extension)
   * [Magento 2 Zero Downtime Deployment](https://magefan.com/blog/magento-2-zero-downtime-deployment)
@@ -188,3 +189,5 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
   * [Magento 2 Translation Extension](https://magefan.com/magento-2-translation-extension)
   * [Magento 2 Translation Plus Extension](https://magefan.com/magento-2-translation-extension/pricing)
 
+  ### Magento 2 Point of Sale
+  * [Magento 2 POS System](https://magefan.com/magento-pos-system)
