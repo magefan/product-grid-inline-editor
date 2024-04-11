@@ -6,13 +6,12 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-product-grid-inline-editor.webp">
 
-For those who are tired of manual product attributes editing [Magento 2 Product Grid Inline Editor](https://magefan.com/magento-2-product-grid-inline-editor) is the perfect solution. It allows you to edit products directly from the product grid and do this either on individual products or massively. These and many other options will help you reduce time spent on product editing to seconds. Literally.
+[Magento 2 Product Grid Inline Editor](https://magefan.com/magento-2-product-grid-inline-editor) is the perfect solution for those who are tired of manual product attribute editing. It allows you to edit products directly from the product grid and do this either on individual products or massively. These and many other options will help you reduce time spent on product editing to seconds. Literally.
 
 <a href="https://magefan.com/magento-2-product-grid-inline-editor"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-product-grid-inline-editor#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Requirements
   * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
-  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
     
 ## Benefits
 
