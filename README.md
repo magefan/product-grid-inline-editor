@@ -1,4 +1,4 @@
-# Magento 2 Product Grid Inline Editor
+# [Magento 2 Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -8,21 +8,22 @@
 
 For those who are tired of manual product attributes editing [Magento 2 Product Grid Inline Editor](https://magefan.com/magento-2-product-grid-inline-editor) is the perfect solution. It allows you to edit products directly from the product grid and do this either on individual products or massively. These and many other options will help you reduce time spent on product editing to seconds. Literally.
 
-
 <a href="https://magefan.com/magento-2-product-grid-inline-editor"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-product-grid-inline-editor#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
+    
 ## Benefits
 
 * Better Product Management
 * Saved Time
 * Flexible Products Attributes Editing
 
-
-
 ## Features
 ### Faster Product Editing Process
 
-Usually you have to go from one page to another to change the product price,quantity or SKU, spending a lot of time. With Magento 2 Product Grid Inline Editor you can do this in a few seconds regardless if it is 10, 100, or 1000 products.
+Usually, you have to go from one page to another to change the product price,quantity or SKU, spending a lot of time. With Magento 2 Product Grid Inline Editor you can do this in a few seconds regardless if it is 10, 100, or 1000 products.
 
 <p align="center">
   <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-product-grid_1.webp">
@@ -80,7 +81,6 @@ Magento 2 Product Grid Inline Editor despite of all other features allows you to
 ### Grid Templates Saving
 Once you rearrange product attributes in the grid and select the product attributes you like to be displayed in grid you might as well like to save grid templates to use in the future. And that is one more feature of Magento 2 Product Grid Inline Editor.
 
-
 <p align="center">
   <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/magento-2-product-grid-template.webp">
 </p>
@@ -122,6 +122,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/product-grid-inline-editor/issues).
 
 ## Need More Features?
 Please contact us to get a quote
